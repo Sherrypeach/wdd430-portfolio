@@ -2,14 +2,14 @@
 
 const projects = [
   {
-    title: 'CSE 340 Course Project',
-    description: 'A server-side web application built for my Web Backend Development course.',
-    technologies: ['Node.js', 'Express', 'PostgreSQL'],
-    link: 'https://github.com/Sherrypeach/cse340-course',
+    title: 'Task Manager',
+    description: 'A full-stack MVC web application with models, controllers, routes, and views, plus a REST API for tasks with data validation and error handling.',
+    technologies: ['Node.js', 'Express', 'PostgreSQL', 'MVC'],
+    link: 'https://github.com/Sherrypeach/task-manager',
   },
   {
     title: 'Personal Portfolio Site',
-    description: 'My personal portfolio website, hosted on GitHub Pages.',
+    description: 'My professional portfolio showing my education, skills, projects, and work experience, hosted on GitHub Pages.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://sherrypeach.github.io/cassandra-portfolio',
   },
